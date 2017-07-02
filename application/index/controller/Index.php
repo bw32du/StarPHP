@@ -3,6 +3,6 @@ class Index
 {
     public function home()
     {
-        echo "hello world11!";
+        echo "hello world!";
     }
 }
